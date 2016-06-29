@@ -1,7 +1,10 @@
 # beer
 - recipes, how to, material blueprints
-- getting started again soon !
+- first beer abroad!
+- 
 
 #todo
 - digitalize recipes -> needs a template or something
-- get started on acquiring more data
+- setup description
+- manifesto
+- visuals
